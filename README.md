@@ -75,13 +75,9 @@ Netlify:
 
 The following image shows the web application's appearance and functionality:
 
-![Homepage](homepage.png)
-
-![User page](login%20page.png)
-
 ## Usage
 
-Click link in top right corner of page to add notes. Once your notes are added and saved, you will be able to view them on the side of the page along with other saved notes.
+To use this application, please visit the deployed site on Heroku or Netlify.
 
 ## License
 
